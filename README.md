@@ -40,4 +40,12 @@ decides whether this repo is a scoring model over 10⁴–10⁵ variants or a pr
 ```
 CLAUDE.md                          project context, constraints, the architecture fork
 docs/prereg_calibration_panel.md   the go/no-go experiment on the fitness function
+panel/                             the panel's freeze artefacts (see panel/README.md)
+scripts/build_panel.py             rebuilds them from committed inputs
 ```
+
+The panel itself is now built — 52 constructs, 49 in the primary statistic, with the
+conserved/non-conserved position classes measured from a 175-species SS18 alignment and
+the BRG1 contact surface taken from PDB 7VRB. That closes two of the seven freeze items;
+the five that remain are wet-lab decisions and sign-offs, so the pre-registration is
+still **not frozen** and no data should be collected yet.

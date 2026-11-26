@@ -1,0 +1,5 @@
+# The panel directory holds pre-registration freeze artefacts whose sha256 values
+# are recorded in docs/prereg_calibration_panel.md and panel/README.md. Git must
+# not rewrite their line endings on checkout, or those hashes would only match on
+# the platform they were computed on.
+panel/** -text

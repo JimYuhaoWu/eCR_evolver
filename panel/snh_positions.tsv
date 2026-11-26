@@ -1,0 +1,71 @@
+pos	mouse_aa	human_aa	n_orthologs	frac_identical_to_mouse	n_distinct_aa	top_alt_aa	top_alt_frac	conservation_class	resolved_in_7vrb	brg1_min_dist_A	brg1_interface	structural_element	aa_counts
+1	M	M	175	1.0	1		0.0	invariant	no		unknown	n_terminal_coil	M:175
+2	S	S	175	1.0	1		0.0	invariant	no		unknown	n_terminal_coil	S:175
+3	V	V	175	1.0	1		0.0	invariant	no		unknown	n_terminal_coil	V:175
+4	A	A	175	1.0	1		0.0	invariant	no		unknown	n_terminal_coil	A:175
+5	F	F	175	1.0	1		0.0	invariant	no		unknown	n_terminal_coil	F:175
+6	A	A	175	0.9943	2	T	0.0057	unassigned	no		unknown	n_terminal_coil	A:174;T:1
+7	A	A	175	0.7657	2	P	0.2343	variable	no		unknown	n_terminal_coil	A:134;P:41
+8	P	P	175	0.7429	3	H	0.2457	variable	no		unknown	n_terminal_coil	P:130;H:43;L:2
+9	R	R	175	1.0	1		0.0	invariant	no		unknown	n_terminal_coil	R:175
+10	Q	Q	175	0.9829	2	P	0.0171	unassigned	no		unknown	n_terminal_coil	Q:172;P:3
+11	R	R	175	1.0	1		0.0	invariant	no		unknown	n_terminal_coil	R:175
+12	G	G	175	0.96	2	A	0.04	variable	no		unknown	n_terminal_coil	G:168;A:7
+13	K	K	175	1.0	1		0.0	invariant	no		unknown	n_terminal_coil	K:175
+14	G	G	175	0.9886	2	S	0.0114	unassigned	yes	12.14	no	n_terminal_coil	G:173;S:2
+15	E	E	175	0.7257	2	D	0.2743	variable	yes	8.09	no	n_terminal_coil	E:127;D:48
+16	I	I	175	1.0	1		0.0	invariant	yes	5.69	no	n_terminal_coil	I:175
+17	T	T	175	1.0	1		0.0	invariant	yes	5.8	no	n_terminal_coil	T:175
+18	P	P	175	1.0	1		0.0	invariant	yes	3.03	yes	helix_a1	P:175
+19	A	A	175	0.9829	2	T	0.0171	unassigned	yes	5.1	no	helix_a1	A:172;T:3
+20	A	A	175	0.7429	3	G	0.2514	variable	yes	6.35	no	helix_a1	A:130;G:44;S:1
+21	I	I	175	1.0	1		0.0	invariant	yes	3.52	yes	helix_a1	I:175
+22	Q	Q	175	1.0	1		0.0	invariant	yes	3.03	yes	helix_a1	Q:175
+23	K	K	175	1.0	1		0.0	invariant	yes	6.26	no	helix_a1	K:175
+24	M	M	175	0.7314	2	L	0.2686	variable	yes	5.03	no	helix_a1	M:128;L:47
+25	L	L	175	1.0	1		0.0	invariant	yes	2.76	yes	helix_a1	L:175
+26	D	D	175	1.0	1		0.0	invariant	yes	4.22	yes	helix_a1	D:175
+27	E	D	175	0.9257	2	D	0.0743	variable	yes	6.02	no	helix_a1	E:162;D:13
+28	N	N	175	1.0	1		0.0	invariant	yes	3.07	yes	helix_a1	N:175
+29	N	N	175	1.0	1		0.0	invariant	yes	2.98	yes	helix_a1	N:175
+30	H	H	175	0.76	2	Q	0.24	variable	yes	6.31	no	helix_a1	H:133;Q:42
+31	L	L	175	1.0	1		0.0	invariant	yes	5.87	no	helix_a1	L:175
+32	I	I	175	1.0	1		0.0	invariant	yes	3.57	yes	helix_a1	I:175
+33	Q	Q	175	1.0	1		0.0	invariant	yes	3.17	yes	helix_a1	Q:175
+34	C	C	175	1.0	1		0.0	invariant	yes	7.14	no	helix_a1	C:175
+35	I	I	175	1.0	1		0.0	invariant	yes	3.74	yes	helix_a1	I:175
+36	M	M	175	1.0	1		0.0	invariant	yes	3.18	yes	helix_a1	M:175
+37	D	D	175	0.9886	2	E	0.0114	unassigned	yes	7.23	no	helix_a1	D:173;E:2
+38	Y	S	175	0.6686	3	F	0.2629	variable	yes	8.61	no	helix_a1	Y:117;F:46;S:12
+39	Q	Q	175	1.0	1		0.0	invariant	yes	2.71	yes	helix_a1	Q:175
+40	N	N	175	0.7314	2	S	0.2686	variable	yes	6.64	no	helix_a1	N:128;S:47
+41	K	K	175	1.0	1		0.0	invariant	yes	10.57	no	interhelix_linker	K:175
+42	G	G	175	1.0	1		0.0	invariant	yes	10.89	no	interhelix_linker	G:175
+43	K	K	175	1.0	1		0.0	invariant	yes	10.56	no	interhelix_linker	K:175
+44	A	T	175	0.0514	2	T	0.9486	variable	yes	9.99	no	helix_a2	T:166;A:9
+45	S	S	175	0.6514	4	A	0.2743	variable	yes	11.63	no	helix_a2	S:114;A:48;L:7;T:6
+46	E	E	175	1.0	1		0.0	invariant	yes	10.78	no	helix_a2	E:175
+47	C	C	175	1.0	1		0.0	invariant	yes	5.78	no	helix_a2	C:175
+48	S	S	175	1.0	1		0.0	invariant	yes	7.09	no	helix_a2	S:175
+49	Q	Q	175	0.9543	2	H	0.0457	variable	yes	8.54	no	helix_a2	Q:167;H:8
+50	Y	Y	175	1.0	1		0.0	invariant	yes	6.14	no	helix_a2	Y:175
+51	Q	Q	175	1.0	1		0.0	invariant	yes	3.16	yes	helix_a2	Q:175
+52	Q	Q	175	1.0	1		0.0	invariant	yes	5.36	no	helix_a2	Q:175
+53	I	M	175	0.0286	4	M	0.8857	variable	yes	6.8	no	helix_a2	M:155;L:14;I:5;V:1
+54	L	L	175	1.0	1		0.0	invariant	yes	3.58	yes	helix_a2	L:175
+55	H	H	175	1.0	1		0.0	invariant	yes	3.35	yes	helix_a2	H:175
+56	T	T	175	0.7314	2	R	0.2686	variable	yes	6.38	no	helix_a2	T:128;R:47
+57	N	N	175	1.0	1		0.0	invariant	yes	5.74	no	helix_a2	N:175
+58	L	L	175	1.0	1		0.0	invariant	yes	3.61	yes	helix_a2	L:175
+59	V	V	175	1.0	1		0.0	invariant	yes	6.46	no	helix_a2	V:175
+60	Y	Y	175	1.0	1		0.0	invariant	yes	5.92	no	helix_a2	Y:175
+61	L	L	175	1.0	1		0.0	invariant	yes	3.41	yes	helix_a2	L:175
+62	A	A	175	1.0	1		0.0	invariant	yes	3.87	yes	helix_a2	A:175
+63	T	T	175	1.0	1		0.0	invariant	yes	6.17	no	helix_a2	T:175
+64	I	I	175	1.0	1		0.0	invariant	yes	3.56	yes	helix_a2	I:175
+65	A	A	175	1.0	1		0.0	invariant	yes	3.52	yes	helix_a2	A:175
+66	D	D	175	1.0	1		0.0	invariant	yes	6.08	no	helix_a2	D:175
+67	S	S	175	1.0	1		0.0	invariant	yes	7.58	no	helix_a2	S:175
+68	N	N	175	1.0	1		0.0	invariant	yes	3.94	yes	helix_a2	N:175
+69	Q	Q	175	1.0	1		0.0	invariant	yes	3.32	yes	helix_a2	Q:175
+70	N	N	175	1.0	1		0.0	invariant	yes	8.96	no	n_terminal_coil	N:175
